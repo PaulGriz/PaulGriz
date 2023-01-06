@@ -8,7 +8,7 @@ I've been programming for 5 years and worked as an accountant for 3 years.
 Currently taking the MIT xPro Full Stack Development course. 
 Emensily passionate about AI and the future of the web.
 
-* 🌍  I'm based in South Carolina
+* 🌍  I'm based in South Carolina, USA
 * ✉️  You can contact me at [paulgrizdev@gmail.com](mailto:paulgrizdev@gmail.com)
 * 🧠  I'm learning the MERN Stack from the MIT xPro Full Stack Program
 * ⚡  I've made 3D AI Generated Videos with Python: <https://youtu.be/-DoV1y9ZYLA>
