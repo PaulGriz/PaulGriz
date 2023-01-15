@@ -1,8 +1,7 @@
-Hello my name is Paul Griz
-==========================
+Hello 👋 My name is Paul Griz
+-----------------------------
 
-Full Stack Developer, Data Scientist, & Accountant
---------------------------------------------------
+> Full Stack Developer, Data Scientist, & Accountant
 
 I've been programming for 5 years and worked as an accountant for 3 years. 
 Currently taking the MIT xPro Full Stack Development course. 
