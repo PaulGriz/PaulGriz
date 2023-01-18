@@ -41,7 +41,7 @@ Emensily passionate about AI and the future of the web.
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-![image](https://www.codewars.com/users/PaulGriz/badges/large)
+<a href="https://www.codewars.com/users/PaulGriz" target="_blank" rel="noreferrer">![image](https://www.codewars.com/users/PaulGriz/badges/large)</a>
 
 ### GitHub Stats
 
