@@ -1,10 +1,26 @@
-Hello 👋 My name is Paul Griz
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="300"/>
+</div>
+
+Hello 👋 My Name is Paul Griz
 -----------------------------
+> "Griz" as in Grizzly Bear
 
-> Full Stack Developer, Data Scientist, & Accountant
+<div id="badges"  align="center">
+  <a href="https://www.linkedin.com/in/paul-griz/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=-DoV1y9ZYLA">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/PaulGrizII">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-I've been programming for 5 years and worked as an accountant for 3 years. 
-Currently taking the MIT xPro Full Stack Development course. 
+**Full Stack Developer, Data Scientist, and Accountant**<br/>
+I've been programming for 6 years and worked as an accountant for 3 years.<br/> 
+Currently taking the MIT xPro Full Stack Development course.<br/> 
 Emensily passionate about AI and the future of the web.
 
 * 🌍  I'm based in South Carolina, USA
@@ -40,9 +56,6 @@ Emensily passionate about AI and the future of the web.
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
-<a href="https://www.codewars.com/users/PaulGriz" target="_blank" rel="noreferrer">![image](https://www.codewars.com/users/PaulGriz/badges/large)</a>
-
 ### GitHub Stats
 
 <a href="http://www.github.com/PaulGriz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PaulGriz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
