@@ -20,12 +20,11 @@ Hello 👋 My Name is Paul Griz
 
 **Full Stack Developer, Data Scientist, and Accountant**<br/>
 I've been programming for 6 years and worked as an accountant for 3 years.<br/> 
-Currently taking the MIT xPro Full Stack Development course.<br/> 
 Emensily passionate about AI and the future of the web.
 
 * 🌍  I'm based in South Carolina, USA
 * ✉️  You can contact me at [paulgrizdev@gmail.com](mailto:paulgrizdev@gmail.com)
-* 🧠  I'm learning the MERN Stack from the MIT xPro Full Stack Program
+* 🧠  Just completed the MIT xPro Full Stack Development Course.<br/> 
 * ⚡  I've made 3D AI Generated Videos with Python: <https://youtu.be/-DoV1y9ZYLA>
 
 ### Skills
