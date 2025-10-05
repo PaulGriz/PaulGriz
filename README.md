@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Paul Griz</h1>
-<h3 align="center">A Fullstack Developer, Data Scientist, and Technology Manager</h3>
+<h3 align="center">CTO, Founder, & Fullstack Engineer</h3>
 
 
 
