@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 179 28" width="179" height="28" role="img">
+<style>text{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;} .g{animation:g 2.4s ease-in-out infinite} @keyframes g{50%{stroke-opacity:.25}}</style>
+<rect x=".5" y=".5" width="178" height="27" rx="4" fill="#0a0e15"/>
+<rect x=".5" y=".5" width="32" height="27" rx="4" fill="#e62117"/><rect x="20" y=".5" width="12.5" height="27" fill="#e62117"/>
+<g transform="translate(9,7) scale(.6)"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" fill="#fff"/></g>
+<text x="44" y="18" font-size="10.5" font-weight="bold" fill="#e6edf3" letter-spacing="1.2" textLength="123.2" lengthAdjust="spacing">YOUTUBE · GRIZOPS</text>
+<rect class="g" x=".5" y=".5" width="178" height="27" rx="4" fill="none" stroke="#e62117" stroke-opacity=".9"/>
+</svg>
